@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hassan Moumin</h1>
-<h3 align="center">Frelencer Digital Marketing & Expert Graphic Design  </h3>
+<h3 align="center"> Professional Digital Marketing   </h3>
 <h3 align="center">A passionate front end developer </h3>
 <br/>
 
